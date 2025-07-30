@@ -16,7 +16,7 @@ const Sidebar: React.FC = () => {
       {/* Top Content */}
       <div className="flex flex-col items-center">
         <img
-          src="/profile.jpg"
+          src="/Profile.jpg"
           alt="profile"
           className="w-32 h-32 rounded-lg object-cover mb-4"
         />
